@@ -1,0 +1,12 @@
+var = "anju is good Girl!!"
+print(var)
+print(len(var))
+print(var[::-1])
+print(var.isalnum())
+print(var.isalpha())
+print(var.count("o"))
+print(var.capitalize())
+print(var.find("is"))
+print(var.lower())
+print(var.upper())
+print(var.replace("is","is a"))
