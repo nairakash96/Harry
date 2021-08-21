@@ -1,0 +1,2 @@
+The Value of num is 45
+The Value of num2 is 46
